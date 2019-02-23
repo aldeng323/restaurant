@@ -3,8 +3,9 @@
 =========================================================*/
 .camera_container {
   position: relative;
-  padding-bottom: 33%;
-  background-image: url(../images/page-1_img01.jpg);
+  padding-bottom: 26%;
+  background-image: url(../images/page-1_img04.jpg);
+  background-repeat: repeat;
 }
 .camera_container .brand {
   position: absolute;
@@ -23,6 +24,7 @@
   font-weight: 400;
   color: #823f3f;
   background-image: url(../images/.jpg);
+  
 }
 @media (max-width: 1700px) {
   .camera_container .brand {
